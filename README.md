@@ -1,2 +1,2 @@
-# 3week_ws_template
-Projeto Ágil e Programação Eficaz - template da tarefa de web service
+# Projeto Ágil e Programação Eficaz
+Repo inicial aula de deploy
