@@ -1,2 +1,2 @@
-# inicial_deploy_flask_insper
-Repositório Inicial para aula de Deploy no Heroku
+# 3week_ws_template
+Projeto Ágil e Programação Eficaz - template da tarefa de web service
